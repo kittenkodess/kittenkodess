@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jehan Abduljabbar</h1>
+<h1 align="center">Hi 👋, I'm Maryam Alfawtawi</h1>
 <h3 align="center">A passionately dedicated Software Engineer from Egypt.</h3>
 
 - 🔭 I’m currently working on **starT**
